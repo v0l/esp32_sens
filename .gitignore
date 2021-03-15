@@ -1,0 +1,8 @@
+*.zip
+*.gbr*
+*.drl
+*-bak
+_autosave*
+*.xml
+*.csv
+*-cache*
